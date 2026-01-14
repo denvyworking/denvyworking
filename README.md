@@ -31,14 +31,6 @@ Backend Engineer Go | Выпускник МИФИ (Факультет прогр
 
 ## 💡 Обо мне
 
-Backend-инженер с глубоким пониманием системного программирования и распределённых систем.  
-В свободное время пишу open-source проекты на **Go** и **C++**, изучаю внутреннее устройство Kafka, Kubernetes и современных протоколов взаимодействия сервисов.
+Product-oriented backend engineer (Go) с опытом проектирования и запуска сервисов, критичных для бизнеса.  
+Строю бэкенды, которые работают в продакшене: от чистых API до устойчивых распределённых систем на Kafka и Kubernetes.
 
----
-
-## Мои пет-проекты
-
-  ### [GO][Production-ready API Library service] (https://github.com/denvyworking/library-api)
-  ### [GO][PR Request service] (https://github.com/denvyworking/pr-reviewer-service)
-  ### [C++][Library with SOLID principles] (https://github.com/denvyworking/Library)
-  ### [GO][Order Management gRPC Service]
