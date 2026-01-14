@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Привет! Я Денис
 
-<!--
-**denvyworking/denvyworking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer Go | Выпускник МИФИ (Факультет программной инженерии) | Призёр Всероссийских и студенческих олимпиад по информатике и физике
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Стек технологий
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=grpc&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-000000?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-000?logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Debezium](https://img.shields.io/badge/-Debezium-3200A8?logo=apachekafka&logoColor=white)
+
+---
+
+## 🎓 Образование и достижения
+
+- 🎓 **НИЯУ МИФИ**, Факультет программной инженерии  
+- 🥇 Призёр Всероссийских и студенческих олимпиад по **информатике** и **физике**  
+- 💻 Многократный финалист соревнований по спортивному программированию 
+
+---
+
+## 💡 Обо мне
+
+Backend-инженер с глубоким пониманием системного программирования и распределённых систем.  
+В свободное время пишу open-source проекты на **Go** и **C++**, изучаю внутреннее устройство Kafka, Kubernetes и современных протоколов взаимодействия сервисов.
+
+---
+
+## Мои пет-проекты
+
+  ### [GO][Production-ready API Library service] (https://github.com/denvyworking/library-api)
+  ### [GO][PR Request service] (https://github.com/denvyworking/pr-reviewer-service)
+  ### [C++][Library with SOLID principles] (https://github.com/denvyworking/Library)
+  ### [GO][Order Management gRPC Service]
